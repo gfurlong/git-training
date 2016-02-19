@@ -1,0 +1,6 @@
+C:\Dev\Git\GhostScriptPCL\GhostScriptPCLWrapper\bin\Debug\API\pcl6-64.dll
+C:\Dev\Git\GhostScriptPCL\GhostScriptPCLWrapper\bin\Debug\GhostScriptPCL.dll
+C:\Dev\Git\GhostScriptPCL\GhostScriptPCLWrapper\bin\Debug\GhostScriptPCL.pdb
+C:\Dev\Git\GhostScriptPCL\GhostScriptPCLWrapper\obj\Debug\GhostScriptPCL.csprojResolveAssemblyReference.cache
+C:\Dev\Git\GhostScriptPCL\GhostScriptPCLWrapper\obj\Debug\GhostScriptPCL.dll
+C:\Dev\Git\GhostScriptPCL\GhostScriptPCLWrapper\obj\Debug\GhostScriptPCL.pdb
